@@ -1,1 +1,10 @@
-print('HELLO WORD!!!')
+git 	init			
+git	add
+git	status
+git	commit -m "Mensagem"
+git	push
+git	branch
+git	checkout nomedabranch
+git	checkout -b nome-da-branch-de-origem nome-da-nova-branch
+git	merge brancha-receber-o-merge
+git	pull
